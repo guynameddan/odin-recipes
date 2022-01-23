@@ -1,0 +1,25 @@
+.recipe-pic {
+    height: 400px;
+    width: auto;
+}
+
+.recipe-link {
+    color: lightsalmon;
+}
+
+#main-header {
+    color: lightskyblue;
+}
+
+#kimchi-header {
+    color: red;
+}
+
+#toast-header {
+    color: brown;
+}
+
+#yogurt-header {
+    background-color: black;
+    color: white;
+}
